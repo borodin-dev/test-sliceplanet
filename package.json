@@ -1,0 +1,34 @@
+{
+  "name": "test-sliceplanet",
+  "version": "1.0.0",
+  "description": "test task for company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borodin-dev/test-sliceplanet.git"
+  },
+  "author": "Ed Borodin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borodin-dev/test-sliceplanet/issues"
+  },
+  "homepage": "https://github.com/borodin-dev/test-sliceplanet#readme",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
+    "scrollwatch": "^2.0.1"
+  }
+}
